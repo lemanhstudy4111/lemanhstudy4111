@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 Hi! I'm Anh from UMass Amherst. I'm a 3rd year student in Computer Science. Some facts about me:
 
-- 🔭 I’m currently working on a website that researches worthwhile online courses for you!
+- 🔭 I’m currently working on a webcam recording website and a website that researches worthwhile online courses for you!
 - 🌱 I’m currently learning Angular, Node JS, and Information Retrieval
 - 📫 How to reach me:
   - Linkedin: www.linkedin.com/in/anhle-minh
