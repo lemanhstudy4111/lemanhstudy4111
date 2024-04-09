@@ -12,4 +12,4 @@ Hi! I'm Anh. I'm a 3rd year student in Computer Science. Some facts about me:
   - Linkedin: www.linkedin.com/in/anhle-minh
   - Email: anh.le.nvsu@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm the vice president of UMass Women's Rugby!
+- ⚡ Fun fact: I'm the vice president of a rugby team!
