@@ -4,7 +4,7 @@
 **lemanhstudy4111/lemanhstudy4111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-Hi! I'm Anh from UMass Amherst. I'm a 3rd year student in Computer Science. Some facts about me:
+Hi! I'm Anh. I'm a 3rd year student in Computer Science. Some facts about me:
 
 - 🔭 I’m currently working on a webcam recording website and a website that researches worthwhile online courses for you!
 - 🌱 I’m currently learning Angular, Node JS, and Information Retrieval
